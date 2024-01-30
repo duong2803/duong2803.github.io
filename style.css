@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: dimgray;
+}
+
+.header {
+    text-align: center;
+    font-size: 10rem
+}
+
+.table-info {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+td {
+    padding: 20px;
+    background-color: darkseagreen;
+    font-size: 30px;
+    border-style: solid;
+    text-align: unset
+}
+
+td:hover {
+    color: antiquewhite
+}
